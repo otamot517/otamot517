@@ -4,8 +4,8 @@
 
 就讀高雄市立新莊高中
 
-擔任新莊電研社社長
-目前很努力提升自己的實力，APCS已經4/3了，但想要把實作拉到4。
+目前擔任新莊電研社第30屆社長
+正努力提升自己的實力，APCS已經4/3了，但想要把實作拉到4。
 <!--
 **otamot517/otamot517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
