@@ -8,7 +8,6 @@
 正努力提升自己的實力，APCS已經4/3了，但想要把實作拉到4。
 <!--
 **otamot517/otamot517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
