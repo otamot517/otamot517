@@ -7,6 +7,8 @@
 目前擔任新莊電研社第30屆社長
 正努力提升自己的實力，APCS已經4/3了，但想要把實作拉到4。
 
+目前進入了學測準備階段，苦無時間更新QQ
+
 ![Snake animation](https://github.com/otamot517/otamot517/blob/output/github-contribution-grid-snake.svg)
 <!--
 **otamot517/otamot517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
